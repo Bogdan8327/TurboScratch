@@ -23,3 +23,8 @@ TurboScratch мой очень баганный аналог Scratch, я про�
 2. Разархивируйте исходники в любую папку
 3. Запустите start.bat или введите в терминал "C:\Program Files\LOVE\love.exe" .
 Я не уверен что моя программа будет работать в Linux или Macos, также тут есть очень много багов, особенно с типами данных, lua не типизированный язык!
+
+Скриншоты:
+<img width="1604" height="945" alt="image" src="https://github.com/user-attachments/assets/9548d201-4f6e-4bb8-b0e4-604a4720a257" />
+<img width="1607" height="934" alt="image" src="https://github.com/user-attachments/assets/1bef0568-8e06-4cb4-b2f7-4729d41d7a11" />
+<img width="1604" height="939" alt="image" src="https://github.com/user-attachments/assets/436a7c72-278b-4121-9d90-f35e93157489" />
